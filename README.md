@@ -9,7 +9,7 @@ The To-Do List application is a simple, effective task management tool that help
 - **Task Filtering**: Filter tasks by their completion status to focus on specific items.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript (React)
+- **Frontend**: Not Implemented
 - **Backend**: Node.js and Express (for API handling)
 - **Database**: No persistent database is used; data is stored temporarily during the session.
 
