@@ -11,7 +11,7 @@ The To-Do List application is a simple, effective task management tool that help
 ## Technologies Used
 - **Frontend**: Not Implemented
 - **Backend**: Node.js and Express (for API handling)
-- **Database**: No persistent database is used; data is stored temporarily during the session.
+- **Database**: SQLite with Prisma ORM
 
 ## Setup & Installation
 1. **Clone the repository**:
